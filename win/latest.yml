@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.0.1
 files:
-  - url: HLTV-Parser-Setup-1.0.0.exe
-    sha512: o11h6mllTn+1lFCMe3jLhvxeLyhkbWVyudQsuSgWHz13EvL4egDQT99moCuP/7/RRv4j3VPLYtRoykPjmFZZjQ==
-    size: 93356127
-path: HLTV-Parser-Setup-1.0.0.exe
-sha512: o11h6mllTn+1lFCMe3jLhvxeLyhkbWVyudQsuSgWHz13EvL4egDQT99moCuP/7/RRv4j3VPLYtRoykPjmFZZjQ==
-releaseDate: '2026-04-21T23:46:39.087Z'
+  - url: HLTV-Parser-Setup-1.0.1.exe
+    sha512: TFm608rLSJOSB6o6JSxJlo4+z7kV3lNuR4muPh37mhCjDcf0KNJDngYQS6Oh7DRw6LHwhNPa7M0R10rxPJyoRw==
+    size: 93355743
+path: HLTV-Parser-Setup-1.0.1.exe
+sha512: TFm608rLSJOSB6o6JSxJlo4+z7kV3lNuR4muPh37mhCjDcf0KNJDngYQS6Oh7DRw6LHwhNPa7M0R10rxPJyoRw==
+releaseDate: '2026-04-21T23:51:23.055Z'
