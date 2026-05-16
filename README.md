@@ -1,5 +1,5 @@
 <p align="center">
- <img width="200px" src="https://github.com/slexoff/Parser_hltv/blob/main/logo/logo.png" alt="logo"/>
+ <img width="200px" src="https://github.com/slexoff/VODLens/blob/main/Logo.png" alt="logo"/>
 </p>
 
 <h1 align="center">
