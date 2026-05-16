@@ -1,4 +1,11 @@
-# VODLens
+<p align="center">
+ <img width="200px" src="https://github.com/slexoff/Parser_hltv/blob/main/logo/logo.png" alt="logo"/>
+</p>
+
+<h1 align="center">
+    VODLENS
+  <br/>
+</h1>
 
 VODLens is a desktop application for parsing and analyzing CS2 and Dota 2 matches.
 
