@@ -3,9 +3,21 @@
 </p>
 
 <h1 align="center">
-    VODLENS
-  <br/>
+  VODLENS</br>
+  <a href="https://github.com/slexoff/VODLens/releases">
+    <img src="https://badge.fury.io/gh/slexoff%2FVODLens.svg" alt="Version">
+  </a>
+  <a href="https://github.com/slexoff/VODLens/actions">
+    <img src="https://github.com/telegramdesktop/tdesktop/workflows/Windows./badge.svg" alt="Windows build">
+  </a>
+  <a href="https://github.com/slexoff/VODLens/actions">
+    <img src="https://github.com/telegramdesktop/tdesktop/workflows/MacOS./badge.svg" alt="macOS build">
+  </a>
 </h1>
+
+<p align="center">
+
+</p>
 
 VODLens is a desktop application for parsing and analyzing CS2 and Dota 2 matches.
 
