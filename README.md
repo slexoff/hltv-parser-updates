@@ -63,7 +63,8 @@ If update installation fails because the server process is still running, close 
 1. Download `VODLens-<version>-mac.dmg` from the latest release.
 2. Open the DMG file.
 3. Drag `VODLens.app` into `Applications`.
-4. Start VODLens.
+4. Open terminal and set comman `xattr -dr com.apple.quarantine /Applications/VODLens.app`
+5. Start VODLens.
 
 If macOS blocks the app because it is not notarized yet:
 
