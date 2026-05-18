@@ -80,7 +80,8 @@ macOS updates are manual for now.
 2. Download the latest `VODLens-<version>-mac.dmg`.
 3. Open the DMG file.
 4. Replace the old `VODLens.app` in `Applications`.
-5. Start the new version.
+5. Open terminal and set comman `xattr -dr com.apple.quarantine /Applications/VODLens.app`
+6. Start the new version.
 
 The app may detect that a new version is available, but automatic install/restart is not used on macOS yet.
 
